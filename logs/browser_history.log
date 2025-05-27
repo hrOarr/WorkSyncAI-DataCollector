@@ -1,0 +1,30 @@
+{"timestamp": "2025-05-26T21:03:02.437456+00:00", "title": "Employee Tracking AI MVP - Google Chrome", "time_spent_seconds": 10.036195, "pc_id": "unknown_pc"}
+{"timestamp": "2025-05-26T21:03:07.463187+00:00", "title": "Employee Tracking AI MVP - Google Chrome", "time_spent_seconds": 15.061926, "pc_id": "unknown_pc"}
+{"timestamp": "2025-05-26T21:03:41.497167+00:00", "title": "WorkSyncAI: Autonomous Work Behavior Insights - Grok - Google Chrome", "time_spent_seconds": 5.018574, "pc_id": "unknown_pc"}
+{"timestamp": "2025-05-26T21:03:51.546193+00:00", "title": "Employee Tracking AI MVP - Google Chrome", "time_spent_seconds": 10.049026, "pc_id": "unknown_pc"}
+{"timestamp": "2025-05-26T21:04:01.592828+00:00", "title": "journalctl command in linux - Google Search - Google Chrome", "time_spent_seconds": 10.046635, "pc_id": "unknown_pc"}
+{"timestamp": "2025-05-26T21:04:06.623065+00:00", "title": "0.0.0.0:8000/events - Google Chrome", "time_spent_seconds": 5.030237, "pc_id": "unknown_pc"}
+{"timestamp": "2025-05-26T21:04:26.699157+00:00", "title": "WorkSyncAI: Autonomous Work Behavior Insights - Grok - Google Chrome", "time_spent_seconds": 20.076092, "pc_id": "unknown_pc"}
+{"timestamp": "2025-05-26T21:12:57.304240+00:00", "title": "127.0.0.1:8000/events - Google Chrome", "time_spent_seconds": 10.035911, "pc_id": "unknown_pc"}
+{"timestamp": "2025-05-26T21:13:02.327212+00:00", "title": "european-summer-of-code/esoc2025: European Summer of Code 2025 - Information and Projects - Google Chrome", "time_spent_seconds": 5.022972, "pc_id": "unknown_pc"}
+{"timestamp": "2025-05-26T21:13:07.361342+00:00", "title": "WorkSyncAI: Autonomous Work Behavior Insights - Grok - Google Chrome", "time_spent_seconds": 5.03413, "pc_id": "unknown_pc"}
+{"timestamp": "2025-05-26T21:14:42.700113+00:00", "title": "127.0.0.1:8000/events - Google Chrome", "time_spent_seconds": 95.338771, "pc_id": "unknown_pc"}
+{"timestamp": "2025-05-26T21:17:08.194278+00:00", "title": "WorkSyncAI: Autonomous Work Behavior Insights - Grok - Google Chrome", "time_spent_seconds": 145.494165, "pc_id": "unknown_pc"}
+{"timestamp": "2025-05-26T21:17:28.267129+00:00", "title": "127.0.0.1:8000/events - Google Chrome", "time_spent_seconds": 20.072851, "pc_id": "unknown_pc"}
+{"timestamp": "2025-05-26T21:17:38.307800+00:00", "title": "(1) Chat | DSI-EStatement | Microsoft Teams - Google Chrome", "time_spent_seconds": 10.040671, "pc_id": "unknown_pc"}
+{"timestamp": "2025-05-26T21:10:30+00:00", "url": "http://127.0.0.1:8000/events", "title": "127.0.0.1:8000/events", "time_spent_seconds": 0, "monitor": "history", "pc_id": "unknown_pc"}
+{"timestamp": "2025-05-26T21:12:43+00:00", "url": "http://127.0.0.1:8000/events", "title": "127.0.0.1:8000/events", "time_spent_seconds": 0, "monitor": "history", "pc_id": "unknown_pc"}
+{"timestamp": "2025-05-26T21:12:45+00:00", "url": "http://127.0.0.1:8000/events", "title": "127.0.0.1:8000/events", "time_spent_seconds": 0, "monitor": "history", "pc_id": "unknown_pc"}
+{"timestamp": "2025-05-26T21:33:44.101304+00:00", "url": "unknown", "title": "Employee Tracking AI MVP - Google Chrome", "time_spent_seconds": 4.048019, "monitor": "combined", "pc_id": "unknown_pc"}
+{"timestamp": "2025-05-26T21:33:51.811170+00:00", "url": "unknown", "title": "WorkSyncAI: Autonomous Work Behavior Insights - Grok - Google Chrome", "time_spent_seconds": 7.709866, "monitor": "combined", "pc_id": "unknown_pc"}
+{"timestamp": "2025-05-26T21:34:05.997675+00:00", "url": "unknown", "title": "127.0.0.1:8000/events - Google Chrome", "time_spent_seconds": 8.609504, "monitor": "combined", "pc_id": "unknown_pc"}
+{"timestamp": "2025-05-26T21:34:11.547222+00:00", "url": "unknown", "title": "journalctl command in linux - Google Search - Google Chrome", "time_spent_seconds": 5.549547, "monitor": "combined", "pc_id": "unknown_pc"}
+{"timestamp": "2025-05-26T21:34:23.167966+00:00", "url": "unknown", "title": "0.0.0.0:8000/events - Google Chrome", "time_spent_seconds": 11.620744, "monitor": "combined", "pc_id": "unknown_pc"}
+{"timestamp": "2025-05-26T21:34:28.738266+00:00", "url": "unknown", "title": "(4) Notifications | LinkedIn - Google Chrome", "time_spent_seconds": 5.5703, "monitor": "combined", "pc_id": "unknown_pc"}
+{"timestamp": "2025-05-26T21:34:31.337257+00:00", "url": "unknown", "title": "Notifications | LinkedIn - Google Chrome", "time_spent_seconds": 2.598991, "monitor": "combined", "pc_id": "unknown_pc"}
+{"timestamp": "2025-05-26T21:35:19.559205+00:00", "url": "unknown", "title": "european-summer-of-code/esoc2025: European Summer of Code 2025 - Information and Projects - Google Chrome", "time_spent_seconds": 48.221948, "monitor": "combined", "pc_id": "unknown_pc"}
+{"timestamp": "2025-05-26T21:38:21.096508+00:00", "url": "unknown", "title": "0.0.0.0:8000/events - Google Chrome", "time_spent_seconds": 2.027246, "monitor": "combined", "pc_id": "unknown_pc"}
+{"timestamp": "2025-05-26T21:38:23.609216+00:00", "url": "unknown", "title": "journalctl command in linux - Google Search - Google Chrome", "time_spent_seconds": 2.512708, "monitor": "combined", "pc_id": "unknown_pc"}
+{"timestamp": "2025-05-26T21:38:29.191231+00:00", "url": "unknown", "title": "127.0.0.1:8000/events - Google Chrome", "time_spent_seconds": 5.582015, "monitor": "combined", "pc_id": "unknown_pc"}
+{"timestamp": "2025-05-27T04:02:21.813108+00:00", "url": "unknown", "title": "Salat Announcement - Chat - Google Chrome", "time_spent_seconds": 3.184481, "monitor": "combined", "pc_id": "unknown_pc"}
+{"timestamp": "2025-05-27T04:28:57.315145+00:00", "url": "unknown", "title": "127.0.0.1:8000/events - Google Chrome", "time_spent_seconds": 211.559303, "monitor": "combined", "pc_id": "unknown_pc"}
